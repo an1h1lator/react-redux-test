@@ -1,0 +1,22 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an1h1lator/react-redux-test.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Galkin_AB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an1h1lator/react-redux-test/issues"
+  },
+  "homepage": "https://github.com/an1h1lator/react-redux-test#readme"
+}
